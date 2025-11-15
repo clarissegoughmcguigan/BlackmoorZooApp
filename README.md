@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/4-fxE7Q2dTk)
 
 <h2>Description</h2>
-For college I had to make a booking app for the fictional Blackmoor Zoo. The programs allows the user to make a account and book a day which then gets saved into a .txt file.
+For college I had to make a booking app for the fictional Blackmoor Zoo. The programs allows the user to make a account and book a day which then gets saved into a .txt file. I designed the app in Figma and the logo in Adobe Illustrator and then used Trello to keep track of the software development life cycle of the app. 
 <br />
 
 
@@ -12,6 +12,7 @@ For college I had to make a booking app for the fictional Blackmoor Zoo. The pro
 - <b>Visual Studio</b> 
 - <b>C#</b>
 - <b>Figma</b>
+- <b>Adobe Illuastrator</b>
 - <b>Trello</b>
 
 <h2>Figma Mood Board & Design</h2>
