@@ -16,7 +16,12 @@ For college I had to make a booking app for the fictional Blackmoor Zoo. The pro
 - <b>Trello</b>
 
 <h2>Figma Mood Board & Design</h2>
-- <b>Visual Studio</b> 
+
+- <b>[Mood Board](https://www.figma.com/board/T59xEl4MfCf8l3zdi1hLS5/mood-board?t=rcKRU4WmclfUrVUO-0)</b>
+
+- <b>[Sketches](https://www.figma.com/design/jFOEhi7HUInzFBYYHgjsal/GUI-sketch-Blackmoor-Zoo?node-id=0-1&p=f&t=UULe94dbW2JUycQW-0)</b>
+
+- <b>[Prototype](https://www.figma.com/design/aAlpGEaUZ9EfZvs9DJIvaf/Blackmoor-app-prototype?node-id=0-1&p=f&t=A0AlsJkedAExC9w7-0)</b> 
 
 <h2>Program walk-through:</h2>
 
