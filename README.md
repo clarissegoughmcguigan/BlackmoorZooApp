@@ -16,6 +16,7 @@ For college I had to make a booking app for the fictional Blackmoor Zoo. The pro
 - <b>Trello</b>
 
 <h2>Figma Mood Board & Design</h2>
+- <b>Visual Studio</b> 
 
 <h2>Program walk-through:</h2>
 
